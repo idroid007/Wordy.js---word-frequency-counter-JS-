@@ -1,0 +1,21 @@
+{
+  "name": "wordy.js",
+  "version": "1.0.0",
+  "description": "wordy.js is a javascript word/frequency/character counter library which is very easy to use",
+  "main": "wordy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "wordy.js",
+    "word",
+    "counter",
+    "frequency",
+    "counter"
+  ],
+  "author": "Ishu Sharma",
+  "license": "ISC",
+  "dependencies": {
+    "minifier": "^0.8.1"
+  }
+}
