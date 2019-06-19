@@ -15,7 +15,7 @@
 
 <li> from returned object we can call functions:
      <ol>
-      <li> words() <br/> will return how many words present (Number type)<li> 
+      <li> words() <br/> will return how many words present (Number type)</li> 
       <li> characters() <br/> will return how many characters present (Number type) </li>
 
       <li>frequency([is_sort[optional - return sorted frequency of words by name]]) <br/> will return a JSON {keys: [as words] :  values:[count] }</li>
